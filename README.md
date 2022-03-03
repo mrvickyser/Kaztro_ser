@@ -34,7 +34,7 @@
 <p align="center">
  <a href="https://github.com/Aj-fx/Kaztro_ser/fork"><span class="avatar"><img height='120' src="./photo/Kaztroser-23.png" alt="Error"> </a></span>
 
-5. https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
+5. https://heroku.com/deploy?template=https://github.com/mrvickyser/Kaztro_ser copy this url and change Aj-fx with your github username and go<br>
 
 
   <p align="center">
